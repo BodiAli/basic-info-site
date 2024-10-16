@@ -1,0 +1,13 @@
+{
+  "name": "basic-info-site",
+  "version": "1.0.0",
+  "description": "A simple Node.js site with routing.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "BodiAli",
+  "license": "MIT"
+}
